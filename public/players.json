@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.5,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "50,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Opening Batter",
+    "rating": 9.0,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm off break",
+    "price": "50,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.2,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "50,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batter",
+    "rating": 9.1,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "price": "40,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.8,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "price": "50,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.9,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "50,000 USD"
+  },
+  {
+ "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper Batter",
+    "rating": 8.9,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "price": "60,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.7,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off break",
+    "price": "35,000 USD"
+  },
+  {
+ "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Alex Hales",
+    "player_country": "England",
+    "playing_role": "Top-order Batter",
+    "rating": 8.9,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "70,000 USD"
+  },
+  {
+ "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Mohammad Amir",
+    "player_country": "Pakistan",
+    "playing_role": "Bowler",
+    "rating": 8.7,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "price": "70,000 USD"
+  },
+  {
+     "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Dawid Malan",
+    "player_country": "England",
+    "playing_role": "Top-order Batter",
+    "rating": 8.8,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm leg break",
+    "price": "70,000 USD"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/G4X9SDcb/shakib.jpg",
+    "player_name": "Johnson Charles",
+    "player_country": "West Indies",
+    "playing_role": "Opening Batter",
+    "rating": 8.6,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "50,000 USD"
+  }
+]
